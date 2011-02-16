@@ -47,4 +47,4 @@ There's also some other ideas that I haven't fleshed out very much yet.
 What I plan on doing with it?
 =============================
 
-I don't plan on trying to monetize this for some time.  It's a fun project that I'm doing to try to show off my abilities to potential employers, (like most of my projects).  Incidentally, I'm looking for work so go grab my resume from http://www.simcop2387.info/resume.pdf and let me know if you've got anything for me.  I'm in the Atlanta, GA area right now and would be willing to relocate if the right offer came, and also doing telecommuting work too.
+I don't plan on trying to monetize this for some time.  It's a fun project that I'm doing to try to show off my abilities to potential employers, (like most of my projects).  Incidentally, I'm looking for work so go grab my resume from <a href="https://dl.dropbox.com/u/21322452/masterresume.pdf">https://dl.dropbox.com/u/21322452/masterresume.pdf</a> and let me know if you've got anything for me.  I'm in the Atlanta, GA area right now and would be willing to relocate if the right offer came, and also doing telecommuting work too.
