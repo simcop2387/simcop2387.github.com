@@ -12,6 +12,8 @@ A little bit ago, a friend of mine decided that there wasn't a really slick ToDo
 So I decided to use it as an opportunity to start playing around with jQuery some more and actually get to where I was reasonably proficient with it.  2 Days and a weekend later I had a working prototype that had some basic functionality.
 Now that the project has reached the stage where it should be resonably usable I'd like to get some more comments from the community and give out some plans I already have.
 
+You can go see it at <a href="http://www.thingsdonelater.com/">http://www.thingsdonelater.com/</a>.
+
 How does it work?
 =================
 
