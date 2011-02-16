@@ -14,11 +14,13 @@ Now that the project has reached the stage where it should be resonably usable I
 
 You can go see it at <a href="http://www.thingsdonelater.com/">http://www.thingsdonelater.com/</a>.
 
+
 How does it work?
 =================
 
 The idea is that everything is sortable.  And I mean EVERYTHING.  You can sort all of your ToDos so the higher priority ones are at the top.  You can even sort your lists that way too.
 And you can even sort the ToDos into other lists by dragging them around.
+
 
 Ideas already suggested to me
 =============================
@@ -39,6 +41,7 @@ I will likely be doing most or all of these depending on how difficult they end 
 * Nice lightweight WYSIWYG editor for the "description" on each ToDo, that way you can leave a little note for yourself about each task easier.
 * Start time for ToDos -- This would play well with the Gantt stuff.
 * Some minor UI tweaks -- Hiding close buttons on lists when they have things in them, or deleting ToDos for you and a few things like that.
+
 
 What I plan on doing with it?
 =============================
