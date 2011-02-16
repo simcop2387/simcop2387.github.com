@@ -22,14 +22,17 @@ Ideas already suggested to me
 =============================
 
 I will likely be doing most or all of these depending on how difficult they end up to do
+
 * Reminders -- Since I have due dates, why not send a reminder to my user about upcoming projects?
     * Email -- I ask for your address to eventually have a "Forgot my password" setup anyway
     * Twitter -- Nice and easy to do, and it lets you get them on your phone for no cost to me
     * SMS -- Very convienient for the user, but a little more difficult for me.  Would also allow for you to add or manage things over the phone
+
 * Multiple types of lists
     * Kanban style tracking -- Likely can't call it that but would be nice
     * Gantt tracking -- Might even be possible to have it combine with Kanban
     * Generic notes -- This would combine with the SMS above very nicely to make it easy to leave a note for yourself later
+
 * Export all data -- Very useful, I just don't know a format that makes sense yet, send me an email at ideas@thingsdonelater.com if you know of a good one.
 * Nice lightweight WYSIWYG editor for the "description" on each ToDo, that way you can leave a little note for yourself about each task easier.
 * Start time for ToDos -- This would play well with the Gantt stuff.
